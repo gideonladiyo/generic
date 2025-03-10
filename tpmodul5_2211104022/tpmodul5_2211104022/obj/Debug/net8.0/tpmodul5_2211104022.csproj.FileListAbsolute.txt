@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\tpmodul5_2211104022\tpmodul5_2211104022\bin\Debug\net8.0\tpmodul5_2211104022.exe
+C:\Users\ACER\source\repos\tpmodul5_2211104022\tpmodul5_2211104022\bin\Debug\net8.0\tpmodul5_2211104022.deps.json
+C:\Users\ACER\source\repos\tpmodul5_2211104022\tpmodul5_2211104022\bin\Debug\net8.0\tpmodul5_2211104022.runtimeconfig.json
+C:\Users\ACER\source\repos\tpmodul5_2211104022\tpmodul5_2211104022\bin\Debug\net8.0\tpmodul5_2211104022.dll
+C:\Users\ACER\source\repos\tpmodul5_2211104022\tpmodul5_2211104022\bin\Debug\net8.0\tpmodul5_2211104022.pdb
+C:\Users\ACER\source\repos\tpmodul5_2211104022\tpmodul5_2211104022\obj\Debug\net8.0\tpmodul5_2211104022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\tpmodul5_2211104022\tpmodul5_2211104022\obj\Debug\net8.0\tpmodul5_2211104022.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\tpmodul5_2211104022\tpmodul5_2211104022\obj\Debug\net8.0\tpmodul5_2211104022.AssemblyInfo.cs
+C:\Users\ACER\source\repos\tpmodul5_2211104022\tpmodul5_2211104022\obj\Debug\net8.0\tpmodul5_2211104022.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\tpmodul5_2211104022\tpmodul5_2211104022\obj\Debug\net8.0\tpmodul5_2211104022.dll
+C:\Users\ACER\source\repos\tpmodul5_2211104022\tpmodul5_2211104022\obj\Debug\net8.0\refint\tpmodul5_2211104022.dll
+C:\Users\ACER\source\repos\tpmodul5_2211104022\tpmodul5_2211104022\obj\Debug\net8.0\tpmodul5_2211104022.pdb
+C:\Users\ACER\source\repos\tpmodul5_2211104022\tpmodul5_2211104022\obj\Debug\net8.0\tpmodul5_2211104022.genruntimeconfig.cache
+C:\Users\ACER\source\repos\tpmodul5_2211104022\tpmodul5_2211104022\obj\Debug\net8.0\ref\tpmodul5_2211104022.dll
